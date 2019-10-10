@@ -1,0 +1,6 @@
+Revision history for Perl extension API::Fuel::NSW.
+
+0.01  Thu Sep 19 16:55:20 2019
+	- original version; created by h2xs 1.23 with options
+		-AX API::Fuel::NSW
+

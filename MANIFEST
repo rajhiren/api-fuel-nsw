@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/API-Fuel-NSW.t
+lib/API/Fuel/NSW.pm
